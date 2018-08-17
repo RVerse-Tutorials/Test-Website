@@ -1,4 +1,5 @@
 ~%2FGitHub%2FTest%20Website%2F.gitignore="9B05DA89"
+~%2FGitHub%2FTest%20Website%2F_config.yml="46A8D901"
 ~%2FGitHub%2FTest%20Website%2F_site%2Fabout.html="C1AB85BD"
 ~%2FGitHub%2FTest%20Website%2F_site.yaml="FD13399F"
 ~%2FGitHub%2FTest%20Website%2F_site.yml="9CB17A66"
@@ -6,3 +7,5 @@
 ~%2FGitHub%2FTest%20Website%2Ffooter.html="27041A2D"
 ~%2FGitHub%2FTest%20Website%2Findex.Rmd="A8B417A4"
 ~%2FGitHub%2FTest%20Website%2Fstyles.css="3B25EE3B"
+~%2FGitHub%2Feeholmes.github.io%2F_config.yml="DFA458E2"
+~%2FGitHub%2Fsimple-cv%2F_config.yml="78794C0A"
